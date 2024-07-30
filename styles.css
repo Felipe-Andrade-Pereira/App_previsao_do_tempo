@@ -69,6 +69,7 @@ body{
 .texto-previsao{
     color:white;
     margin-left: 20px;
+    text-transform: capitalize;
 }
 .umidade{
     color:white;
